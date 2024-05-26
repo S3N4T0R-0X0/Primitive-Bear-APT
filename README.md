@@ -71,7 +71,7 @@ Now i will create SFX Archive using WinRAR and take the SFX file that contains t
 
 ![Screenshot from 2024-05-26 09-23-43](https://github.com/S3N4T0R-0X0/Primitive-Bear-APT/assets/121706460/dafe9156-4b6f-4712-97de-cd2d4734439b)
 
-## Final result: payload connect to C2-server
+## Final result (payload connect to C2-server)
 
 This Perl C2 server script enable to make remote communication by utilizes DES encryption for secure data transmission between the attacker server and the target.
 
